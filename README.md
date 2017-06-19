@@ -5,9 +5,13 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
 	* Functions
-	* Parameters
+		- code that can be "called on" or "invoked" to perform a specific task. 
+	* Parameters 
+		- essentially the layout or rules of a function or if statement. i.e. if (x < 5); the parameters here are "x < 5".
 	* Arguments
+		- variables that are being teted or used in a function. For example, for the function addTwoNumbers(x, y){}, the arguments are x and y, because they are what the function will add together.
 	* `if` statements
+		- key components of functions. They lay out what to test, and how to test it. If this is true, then do this, and if this is not true, then do this.
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
